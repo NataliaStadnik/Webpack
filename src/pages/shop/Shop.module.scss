@@ -1,0 +1,22 @@
+.img {
+  width: 200px;
+  height: 200px;
+  background-size: 200px 200px;
+  background-image: url('@/assets/oval.jpg');
+}
+
+.wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(210, 185, 248);
+  gap: 30px;
+  padding: 20px 40px;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 36px;
+}
